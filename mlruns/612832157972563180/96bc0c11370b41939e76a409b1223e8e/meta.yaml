@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/612832157972563180/96bc0c11370b41939e76a409b1223e8e/artifacts
+end_time: 1737824861932
+entry_point_name: ''
+experiment_id: '612832157972563180'
+lifecycle_stage: active
+run_id: 96bc0c11370b41939e76a409b1223e8e
+run_name: glamorous-rook-295
+run_uuid: 96bc0c11370b41939e76a409b1223e8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737824859495
+status: 3
+tags: []
+user_id: karth
