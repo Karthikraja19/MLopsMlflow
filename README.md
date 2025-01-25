@@ -47,4 +47,4 @@ Steps:
 1. Initialized the DVC repository using dvc init.
 2. Added the dataset (housing.csv) to DVC with dvc add.
 3. Committed and pushed the dataset versions to Git using git commit and git push.
-4. Tagged each version for easy tracking and retrieval.
+
