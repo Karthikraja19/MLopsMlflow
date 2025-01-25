@@ -1,5 +1,5 @@
 [core]
-    remote = gs_remote
+    remote = local-remote
 ['remote "local-remote"']
     url = ../dvc-remote
 ['remote "gs_remote"']
