@@ -21,14 +21,16 @@ Logged each model under separate MLflow experiments:
 housing-experiment-Random forest
 housing-experiment - Decision Tree
 housing-experiment - SVM
+
 Requirements
 Python 3.x
 Libraries: pandas, scikit-learn, mlflow, joblib
-Install dependencies:
 
+Install dependencies:
 bash
 Copy
 Edit
 pip install -r requirements.txt
+
 Run
 Execute the script to train models, evaluate performance, and track experiments in MLflow.
