@@ -1,6 +1,7 @@
 # MLopsMlflow
 M2: Process and Tooling
 
+I.	Experiment Tracking:
 This code trains and evaluates three machine learning models (Random Forest, Decision Tree, and SVM) on housing data (Housing.csv) and logs metrics and models using MLflow.
 
 Steps
@@ -34,3 +35,16 @@ pip install -r requirements.txt
 
 Run
 Execute the script to train models, evaluate performance, and track experiments in MLflow.
+
+II.	Data Versioning:
+
+a. Used DVC (Data Version Control) with a local repository to manage large datasets.
+b. Created and versioned 3 different versions of the dataset (housing.csv) for model training.
+c. Each dataset version was pushed to Git along with model code and artifacts.
+d. DVC allows efficient versioning of the data, tracking changes without storing large datasets in the Git repository.
+
+Steps:
+1. Initialized the DVC repository using dvc init.
+2. Added the dataset (housing.csv) to DVC with dvc add.
+3. Committed and pushed the dataset versions to Git using git commit and git push.
+4. Tagged each version for easy tracking and retrieval.
