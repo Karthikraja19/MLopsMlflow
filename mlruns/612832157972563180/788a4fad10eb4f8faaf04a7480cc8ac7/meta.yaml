@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/612832157972563180/788a4fad10eb4f8faaf04a7480cc8ac7/artifacts
+end_time: 1737800726778
+entry_point_name: ''
+experiment_id: '612832157972563180'
+lifecycle_stage: active
+run_id: 788a4fad10eb4f8faaf04a7480cc8ac7
+run_name: indecisive-hound-60
+run_uuid: 788a4fad10eb4f8faaf04a7480cc8ac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737800724327
+status: 3
+tags: []
+user_id: karth
