@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/MLflow/mlruns/688987134492574586/307ed6384828414189c9cc0ba60af93c/artifacts
+end_time: 1737782803633
+entry_point_name: ''
+experiment_id: '688987134492574586'
+lifecycle_stage: active
+run_id: 307ed6384828414189c9cc0ba60af93c
+run_name: defiant-deer-661
+run_uuid: 307ed6384828414189c9cc0ba60af93c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737782801366
+status: 3
+tags: []
+user_id: karth

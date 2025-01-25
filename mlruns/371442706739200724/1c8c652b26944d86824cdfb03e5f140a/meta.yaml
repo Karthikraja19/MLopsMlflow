@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/MLflow/mlruns/371442706739200724/1c8c652b26944d86824cdfb03e5f140a/artifacts
+end_time: 1737784277736
+entry_point_name: ''
+experiment_id: '371442706739200724'
+lifecycle_stage: active
+run_id: 1c8c652b26944d86824cdfb03e5f140a
+run_name: unequaled-finch-6
+run_uuid: 1c8c652b26944d86824cdfb03e5f140a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784272807
+status: 3
+tags: []
+user_id: karth

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/MLflow/mlruns/688968272546929133/482e13c3ff0f47169f7068b445578418/artifacts
+end_time: 1737782805930
+entry_point_name: ''
+experiment_id: '688968272546929133'
+lifecycle_stage: active
+run_id: 482e13c3ff0f47169f7068b445578418
+run_name: amazing-bird-312
+run_uuid: 482e13c3ff0f47169f7068b445578418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737782803633
+status: 3
+tags: []
+user_id: karth

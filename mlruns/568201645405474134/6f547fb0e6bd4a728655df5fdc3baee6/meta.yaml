@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/MLflow/mlruns/568201645405474134/6f547fb0e6bd4a728655df5fdc3baee6/artifacts
+end_time: 1737757140162
+entry_point_name: ''
+experiment_id: '568201645405474134'
+lifecycle_stage: active
+run_id: 6f547fb0e6bd4a728655df5fdc3baee6
+run_name: dapper-yak-52
+run_uuid: 6f547fb0e6bd4a728655df5fdc3baee6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737757137881
+status: 3
+tags: []
+user_id: karth

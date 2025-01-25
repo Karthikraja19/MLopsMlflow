@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/MLflow/mlruns/688968272546929133/0654ee1f9e0946ad82714855dfbf273e/artifacts
+end_time: 1737784284609
+entry_point_name: ''
+experiment_id: '688968272546929133'
+lifecycle_stage: active
+run_id: 0654ee1f9e0946ad82714855dfbf273e
+run_name: clumsy-frog-468
+run_uuid: 0654ee1f9e0946ad82714855dfbf273e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737784281174
+status: 3
+tags: []
+user_id: karth

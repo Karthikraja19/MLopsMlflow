@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/MLflow/mlruns/688987134492574586/649004c840764afd8b8ae7edea55654c/artifacts
+end_time: 1737758799643
+entry_point_name: ''
+experiment_id: '688987134492574586'
+lifecycle_stage: active
+run_id: 649004c840764afd8b8ae7edea55654c
+run_name: nimble-snail-580
+run_uuid: 649004c840764afd8b8ae7edea55654c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737758794723
+status: 3
+tags: []
+user_id: karth

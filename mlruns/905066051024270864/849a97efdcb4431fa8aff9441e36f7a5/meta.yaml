@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/MLflow/mlruns/905066051024270864/849a97efdcb4431fa8aff9441e36f7a5/artifacts
+end_time: 1737756783016
+entry_point_name: ''
+experiment_id: '905066051024270864'
+lifecycle_stage: active
+run_id: 849a97efdcb4431fa8aff9441e36f7a5
+run_name: wise-ray-742
+run_uuid: 849a97efdcb4431fa8aff9441e36f7a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737756780090
+status: 3
+tags: []
+user_id: karth
