@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/612832157972563180/f4ea86878ace4c63a9c516b711f3094a/artifacts
+end_time: 1737820622277
+entry_point_name: ''
+experiment_id: '612832157972563180'
+lifecycle_stage: active
+run_id: f4ea86878ace4c63a9c516b711f3094a
+run_name: powerful-donkey-96
+run_uuid: f4ea86878ace4c63a9c516b711f3094a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737820619822
+status: 3
+tags: []
+user_id: karth

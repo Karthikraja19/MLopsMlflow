@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/612832157972563180/0d42dd8b8d2547198048e0e50a4c6dc7/artifacts
+end_time: 1737823261052
+entry_point_name: ''
+experiment_id: '612832157972563180'
+lifecycle_stage: active
+run_id: 0d42dd8b8d2547198048e0e50a4c6dc7
+run_name: inquisitive-hare-170
+run_uuid: 0d42dd8b8d2547198048e0e50a4c6dc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737823258636
+status: 3
+tags: []
+user_id: karth

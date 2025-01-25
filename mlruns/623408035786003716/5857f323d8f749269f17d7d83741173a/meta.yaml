@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/623408035786003716/5857f323d8f749269f17d7d83741173a/artifacts
+end_time: 1737822077532
+entry_point_name: ''
+experiment_id: '623408035786003716'
+lifecycle_stage: active
+run_id: 5857f323d8f749269f17d7d83741173a
+run_name: victorious-seal-917
+run_uuid: 5857f323d8f749269f17d7d83741173a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737822077467
+status: 4
+tags: []
+user_id: karth

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/420879006358041773/48659e699d6048e6aa9c625c44ec604e/artifacts
+end_time: 1737820619822
+entry_point_name: ''
+experiment_id: '420879006358041773'
+lifecycle_stage: active
+run_id: 48659e699d6048e6aa9c625c44ec604e
+run_name: bald-bee-696
+run_uuid: 48659e699d6048e6aa9c625c44ec604e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737820617347
+status: 3
+tags: []
+user_id: karth

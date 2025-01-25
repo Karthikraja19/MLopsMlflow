@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/612832157972563180/584f41dade7d4d86a10aba3942cabcf7/artifacts
+end_time: 1737823328114
+entry_point_name: ''
+experiment_id: '612832157972563180'
+lifecycle_stage: active
+run_id: 584f41dade7d4d86a10aba3942cabcf7
+run_name: whimsical-dog-546
+run_uuid: 584f41dade7d4d86a10aba3942cabcf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737823325653
+status: 3
+tags: []
+user_id: karth

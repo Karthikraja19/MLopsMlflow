@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/623408035786003716/53665abfe52544aaadf706e8ecccb12c/artifacts
+end_time: 1737823323008
+entry_point_name: ''
+experiment_id: '623408035786003716'
+lifecycle_stage: active
+run_id: 53665abfe52544aaadf706e8ecccb12c
+run_name: capable-stag-590
+run_uuid: 53665abfe52544aaadf706e8ecccb12c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737823319847
+status: 3
+tags: []
+user_id: karth
