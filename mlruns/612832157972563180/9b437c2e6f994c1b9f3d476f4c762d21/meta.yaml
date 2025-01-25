@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/612832157972563180/9b437c2e6f994c1b9f3d476f4c762d21/artifacts
+end_time: 1737822790159
+entry_point_name: ''
+experiment_id: '612832157972563180'
+lifecycle_stage: active
+run_id: 9b437c2e6f994c1b9f3d476f4c762d21
+run_name: able-croc-463
+run_uuid: 9b437c2e6f994c1b9f3d476f4c762d21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737822787348
+status: 3
+tags: []
+user_id: karth

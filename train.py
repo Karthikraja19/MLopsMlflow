@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.metrics import accuracy_score, mean_squared_error, r2_score
+from sklearn.metrics import accuracy_score, mean_squared_error, r2_score,precision_score,recall_score,f1_score
 import mlflow
 import mlflow.sklearn
 import joblib
@@ -35,14 +35,23 @@ with mlflow.start_run():
     mse_rf = mean_squared_error(y_test, y_pred)
     r2_rf = r2_score(y_test, y_pred)
     accuracy_rf = accuracy_score(y_test, y_pred)
+    precision_rf = precision_score(y_test, y_pred, average='macro')
+    recall_rf = recall_score(y_test, y_pred, average='macro')
+    f1_rf = f1_score(y_test, y_pred, average='macro')
 
     mlflow.log_metric('mse_rf', mse_rf)
     mlflow.log_metric('r2_rf', r2_rf)
     mlflow.log_metric('accuracy_rf', accuracy_rf)
+    mlflow.log_metric('precision_rf', precision_rf)
+    mlflow.log_metric('recall_rf',recall_rf)
+    mlflow.log_metric('f1_rf',f1_rf)
 
     print(f"mse_rf: {mse_rf}")
     print(f"r2_rf: {r2_rf}")
     print(f"accuracy_rf: {accuracy_rf}")
+    print(f"precision_rf: {precision_rf}")
+    print(f"recall_rf: {recall_rf}") 
+    print(f"f1_rf: {f1_rf}")  
 
     mlflow.sklearn.log_model(model, 'random-forest-model')
     joblib.dump(model, 'random-forest-model.pkl')
@@ -59,18 +68,29 @@ with mlflow.start_run():
     # Make predictions
     y_pred = clf.predict(x_test)
 
-    # Evaluate the model
-    accuracy_dt = accuracy_score(y_test, y_pred)
+    # Calculate metrics
     mse_dt = mean_squared_error(y_test, y_pred)
     r2_dt = r2_score(y_test, y_pred)
+    accuracy_dt = accuracy_score(y_test, y_pred)
+    precision_dt = precision_score(y_test, y_pred, average='macro')
+    recall_dt = recall_score(y_test, y_pred, average='macro')
+    f1_dt = f1_score(y_test, y_pred, average='macro')
 
-    mlflow.log_metric('mse', mse_dt)
-    mlflow.log_metric('r2', r2_dt)
+    # Log metrics
+    mlflow.log_metric('mse_dt', mse_dt)
+    mlflow.log_metric('r2_dt', r2_dt)
     mlflow.log_metric('accuracy_dt', accuracy_dt)
+    mlflow.log_metric('precision_dt', precision_dt)
+    mlflow.log_metric('recall_dt', recall_dt)
+    mlflow.log_metric('f1_dt', f1_dt)
 
+    #print metrics
     print(f"mse_dt: {mse_dt}")
     print(f"r2_dt: {r2_dt}")
     print(f"accuracy_dt: {accuracy_dt}")
+    print(f"precision_dt: {precision_dt}")
+    print(f"recall_dt: {recall_dt}")
+    print(f"f1_dt: {f1_dt}") 
 
     mlflow.sklearn.log_model(clf, 'decision-tree-model')
     joblib.dump(clf, 'decision-tree-model.pkl')
@@ -88,19 +108,30 @@ with mlflow.start_run():
     # Make predictions
     y_pred_svm = clf_svm.predict(x_test)
 
-    # Evaluate the model
-    accuracy_svm = accuracy_score(y_test, y_pred_svm)
-    mse_svm = mean_squared_error(y_test, y_pred_svm)
-    r2_svm = r2_score(y_test, y_pred_svm)
 
-    # Log metrics to MLflow
-    mlflow.log_metric('mse', mse_svm)
-    mlflow.log_metric('r2', r2_svm)
+    # Calculate metrics
+    mse_svm = mean_squared_error(y_test, y_pred)
+    r2_svm = r2_score(y_test, y_pred)
+    accuracy_svm = accuracy_score(y_test, y_pred)
+    precision_svm = precision_score(y_test, y_pred, average='macro')
+    recall_svm = recall_score(y_test, y_pred, average='macro')
+    f1_svm = f1_score(y_test, y_pred, average='macro')
+
+    # Log metrics
+    mlflow.log_metric('mse_svm', mse_svm)
+    mlflow.log_metric('r2_svm', r2_svm)
     mlflow.log_metric('accuracy_svm', accuracy_svm)
+    mlflow.log_metric('precision_svm', precision_svm)
+    mlflow.log_metric('recall_svm', recall_svm)
+    mlflow.log_metric('f1_svm', f1_svm)
 
+    #print metrics
     print(f"mse_svm: {mse_svm}")
     print(f"r2_svm: {r2_svm}")
     print(f"accuracy_svm: {accuracy_svm}")
+    print(f"precision_svm:{precision_svm}")
+    print(f"recall_svm: {recall_svm}")
+    print(f"f1_svm: {f1_svm}") 
 
     # Log the model to MLflow and save it locally
     mlflow.sklearn.log_model(clf_svm, 'svm-model')

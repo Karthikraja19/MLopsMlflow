@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/623408035786003716/e3d8ffa9cd764e309595ec840ad66b73/artifacts
+end_time: 1737821973924
+entry_point_name: ''
+experiment_id: '623408035786003716'
+lifecycle_stage: active
+run_id: e3d8ffa9cd764e309595ec840ad66b73
+run_name: burly-foal-282
+run_uuid: e3d8ffa9cd764e309595ec840ad66b73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737821973876
+status: 4
+tags: []
+user_id: karth

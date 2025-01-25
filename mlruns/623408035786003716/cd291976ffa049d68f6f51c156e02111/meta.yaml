@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/623408035786003716/cd291976ffa049d68f6f51c156e02111/artifacts
+end_time: 1737822527351
+entry_point_name: ''
+experiment_id: '623408035786003716'
+lifecycle_stage: active
+run_id: cd291976ffa049d68f6f51c156e02111
+run_name: silent-quail-884
+run_uuid: cd291976ffa049d68f6f51c156e02111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737822524449
+status: 3
+tags: []
+user_id: karth
