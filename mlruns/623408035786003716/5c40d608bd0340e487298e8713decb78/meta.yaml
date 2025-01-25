@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/623408035786003716/5c40d608bd0340e487298e8713decb78/artifacts
+end_time: 1737824178809
+entry_point_name: ''
+experiment_id: '623408035786003716'
+lifecycle_stage: active
+run_id: 5c40d608bd0340e487298e8713decb78
+run_name: industrious-frog-639
+run_uuid: 5c40d608bd0340e487298e8713decb78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737824175815
+status: 3
+tags: []
+user_id: karth
