@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/420879006358041773/d103da9ef9e24011bf306987c27d8e1b/artifacts
+end_time: 1737832996253
+entry_point_name: ''
+experiment_id: '420879006358041773'
+lifecycle_stage: active
+run_id: d103da9ef9e24011bf306987c27d8e1b
+run_name: tasteful-gnat-598
+run_uuid: d103da9ef9e24011bf306987c27d8e1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737832993914
+status: 3
+tags: []
+user_id: karth

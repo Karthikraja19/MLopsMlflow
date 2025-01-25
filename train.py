@@ -137,9 +137,3 @@ with mlflow.start_run():
     mlflow.sklearn.log_model(clf_svm, 'svm-model')
     joblib.dump(clf_svm, 'svm-model.pkl')
     mlflow.log_artifact('svm-model.pkl')
-
-
-
-
-
-
