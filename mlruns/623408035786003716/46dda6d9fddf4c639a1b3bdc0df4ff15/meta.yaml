@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/623408035786003716/46dda6d9fddf4c639a1b3bdc0df4ff15/artifacts
+end_time: 1737904142548
+entry_point_name: ''
+experiment_id: '623408035786003716'
+lifecycle_stage: active
+run_id: 46dda6d9fddf4c639a1b3bdc0df4ff15
+run_name: abrasive-smelt-236
+run_uuid: 46dda6d9fddf4c639a1b3bdc0df4ff15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737904134553
+status: 3
+tags: []
+user_id: karth

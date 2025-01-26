@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/612832157972563180/2d54089a1a9741728a6c3c055ac8ff44/artifacts
+end_time: 1737903956444
+entry_point_name: ''
+experiment_id: '612832157972563180'
+lifecycle_stage: active
+run_id: 2d54089a1a9741728a6c3c055ac8ff44
+run_name: redolent-quail-449
+run_uuid: 2d54089a1a9741728a6c3c055ac8ff44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737903950598
+status: 3
+tags: []
+user_id: karth
