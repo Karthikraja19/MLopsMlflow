@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/623408035786003716/a7553bc03ba34308b20af35438367ed8/artifacts
+end_time: 1737872769242
+entry_point_name: ''
+experiment_id: '623408035786003716'
+lifecycle_stage: active
+run_id: a7553bc03ba34308b20af35438367ed8
+run_name: loud-sheep-799
+run_uuid: a7553bc03ba34308b20af35438367ed8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737872765577
+status: 3
+tags: []
+user_id: karth

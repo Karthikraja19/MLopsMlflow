@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/612832157972563180/64e81073ecd84894b4e86d115519c94e/artifacts
+end_time: 1737872774536
+entry_point_name: ''
+experiment_id: '612832157972563180'
+lifecycle_stage: active
+run_id: 64e81073ecd84894b4e86d115519c94e
+run_name: capricious-asp-606
+run_uuid: 64e81073ecd84894b4e86d115519c94e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737872771869
+status: 3
+tags: []
+user_id: karth
