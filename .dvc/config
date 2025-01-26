@@ -2,5 +2,3 @@
     remote = local-remote
 ['remote "local-remote"']
     url = ../dvc-remote
-['remote "gs_remote"']
-    url = ../gs:dvc-remote
