@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/482374366473517156/518c28334f2644bd94b08feb063340bb/artifacts
+end_time: 1737900957508
+entry_point_name: ''
+experiment_id: '482374366473517156'
+lifecycle_stage: active
+run_id: 518c28334f2644bd94b08feb063340bb
+run_name: thundering-slug-375
+run_uuid: 518c28334f2644bd94b08feb063340bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737900954623
+status: 3
+tags: []
+user_id: karth

@@ -9,7 +9,7 @@ import mlflow.sklearn
 import joblib
 from sklearn.svm import SVC
 
-data = pd.read_csv('data\Housing.csv')
+data = pd.read_csv('data/Housing.csv')
 data.replace({'yes': 1, 'no': 0}, inplace=True)
 data.replace({'furnished': 1, 'semi-furnished': 0, 'unfurnished': 2}, inplace=True)
 

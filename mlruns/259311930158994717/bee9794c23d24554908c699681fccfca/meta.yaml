@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/259311930158994717/bee9794c23d24554908c699681fccfca/artifacts
+end_time: 1737900954610
+entry_point_name: ''
+experiment_id: '259311930158994717'
+lifecycle_stage: active
+run_id: bee9794c23d24554908c699681fccfca
+run_name: fun-moose-975
+run_uuid: bee9794c23d24554908c699681fccfca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737900950719
+status: 3
+tags: []
+user_id: karth

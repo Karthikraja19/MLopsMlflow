@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/552300296752319551/2a0f17c214fb4a908d7ca6aa66a1338c/artifacts
+end_time: 1737900960304
+entry_point_name: ''
+experiment_id: '552300296752319551'
+lifecycle_stage: active
+run_id: 2a0f17c214fb4a908d7ca6aa66a1338c
+run_name: righteous-newt-269
+run_uuid: 2a0f17c214fb4a908d7ca6aa66a1338c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737900957520
+status: 3
+tags: []
+user_id: karth
