@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/482374366473517156/803e60290cfe4d1b82e3c3c3228de20c/artifacts
+end_time: 1737902289763
+entry_point_name: ''
+experiment_id: '482374366473517156'
+lifecycle_stage: active
+run_id: 803e60290cfe4d1b82e3c3c3228de20c
+run_name: resilient-croc-934
+run_uuid: 803e60290cfe4d1b82e3c3c3228de20c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737902281870
+status: 3
+tags: []
+user_id: karth

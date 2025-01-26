@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/552300296752319551/28e6196bcd594377823f19e1aaacfa7b/artifacts
+end_time: 1737902297450
+entry_point_name: ''
+experiment_id: '552300296752319551'
+lifecycle_stage: active
+run_id: 28e6196bcd594377823f19e1aaacfa7b
+run_name: suave-gull-817
+run_uuid: 28e6196bcd594377823f19e1aaacfa7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737902289777
+status: 3
+tags: []
+user_id: karth
