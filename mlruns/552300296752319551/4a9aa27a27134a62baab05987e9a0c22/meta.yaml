@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/552300296752319551/4a9aa27a27134a62baab05987e9a0c22/artifacts
+end_time: 1737901804317
+entry_point_name: ''
+experiment_id: '552300296752319551'
+lifecycle_stage: active
+run_id: 4a9aa27a27134a62baab05987e9a0c22
+run_name: indecisive-midge-198
+run_uuid: 4a9aa27a27134a62baab05987e9a0c22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737901801239
+status: 3
+tags: []
+user_id: karth

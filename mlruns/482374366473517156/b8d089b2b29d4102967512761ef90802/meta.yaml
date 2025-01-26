@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/482374366473517156/b8d089b2b29d4102967512761ef90802/artifacts
+end_time: 1737901549662
+entry_point_name: ''
+experiment_id: '482374366473517156'
+lifecycle_stage: active
+run_id: b8d089b2b29d4102967512761ef90802
+run_name: resilient-ape-17
+run_uuid: b8d089b2b29d4102967512761ef90802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737901546900
+status: 3
+tags: []
+user_id: karth

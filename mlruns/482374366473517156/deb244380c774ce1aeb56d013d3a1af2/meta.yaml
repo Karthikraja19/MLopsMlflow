@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/482374366473517156/deb244380c774ce1aeb56d013d3a1af2/artifacts
+end_time: 1737901522115
+entry_point_name: ''
+experiment_id: '482374366473517156'
+lifecycle_stage: active
+run_id: deb244380c774ce1aeb56d013d3a1af2
+run_name: selective-robin-930
+run_uuid: deb244380c774ce1aeb56d013d3a1af2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737901519215
+status: 3
+tags: []
+user_id: karth

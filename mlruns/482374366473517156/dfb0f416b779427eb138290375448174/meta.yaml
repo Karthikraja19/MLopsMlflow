@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/482374366473517156/dfb0f416b779427eb138290375448174/artifacts
+end_time: 1737901801231
+entry_point_name: ''
+experiment_id: '482374366473517156'
+lifecycle_stage: active
+run_id: dfb0f416b779427eb138290375448174
+run_name: bald-rat-555
+run_uuid: dfb0f416b779427eb138290375448174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737901798164
+status: 3
+tags: []
+user_id: karth

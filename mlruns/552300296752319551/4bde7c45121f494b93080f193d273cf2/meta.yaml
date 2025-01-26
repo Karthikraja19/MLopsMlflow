@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/552300296752319551/4bde7c45121f494b93080f193d273cf2/artifacts
+end_time: 1737901524938
+entry_point_name: ''
+experiment_id: '552300296752319551'
+lifecycle_stage: active
+run_id: 4bde7c45121f494b93080f193d273cf2
+run_name: nimble-steed-790
+run_uuid: 4bde7c45121f494b93080f193d273cf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737901522126
+status: 3
+tags: []
+user_id: karth

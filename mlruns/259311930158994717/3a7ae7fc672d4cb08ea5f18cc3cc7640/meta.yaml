@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/259311930158994717/3a7ae7fc672d4cb08ea5f18cc3cc7640/artifacts
+end_time: 1737901798156
+entry_point_name: ''
+experiment_id: '259311930158994717'
+lifecycle_stage: active
+run_id: 3a7ae7fc672d4cb08ea5f18cc3cc7640
+run_name: serious-auk-538
+run_uuid: 3a7ae7fc672d4cb08ea5f18cc3cc7640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737901793936
+status: 3
+tags: []
+user_id: karth

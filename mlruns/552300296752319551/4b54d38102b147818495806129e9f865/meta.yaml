@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/MLops/Mlflow-test/MLopsMlflow/mlruns/552300296752319551/4b54d38102b147818495806129e9f865/artifacts
+end_time: 1737901552488
+entry_point_name: ''
+experiment_id: '552300296752319551'
+lifecycle_stage: active
+run_id: 4b54d38102b147818495806129e9f865
+run_name: intrigued-moth-185
+run_uuid: 4b54d38102b147818495806129e9f865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737901549670
+status: 3
+tags: []
+user_id: karth
